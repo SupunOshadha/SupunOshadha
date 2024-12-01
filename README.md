@@ -11,8 +11,8 @@
 - Docker, AWS (Basic)
 
 ## Projects
-- **
-- **
+- RecipeShare project
+- 
 
 ## Currently Learning
 - **Node.js, Express, MongoDB** (Relearning)
