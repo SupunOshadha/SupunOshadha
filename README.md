@@ -6,7 +6,7 @@
 
 ## Skills
 - HTML, CSS, JavaScript
-- React, Node.js, Express, MongoDB
+- React, TailwindCss, Node.js, Express, MongoDB
 - PostgreSQL, Git, npm, Java, Spring Boot
 - Docker, AWS (Basic)
 
