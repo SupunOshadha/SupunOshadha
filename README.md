@@ -15,7 +15,7 @@
 - 
 
 ## Currently Learning
-- **Node.js, Express, MongoDB** (Relearning)
+- **Node.js, Express, MongoDB** 
 - **Java Spring Boot**
 - **PostgreSQL, Docker, AWS**
 
