@@ -29,17 +29,21 @@ A Software Engineering Graduate from The Open University of Sri Lanka, combining
 
 ### 📁 Featured Engineering & Infrastructure Projects
 
-#### 🌐 🛠️ [Cisco CCNA Packet Tracer Labs Portfolio](https://github.com/SupunOshadha)
+#### [Cisco CCNA Packet Tracer Labs Portfolio](https://github.com/SupunOshadha)
 *Core Network Topology Design & Simulation*
 * Dedicated repository documenting practical network architecture setups, device configurations, and troubleshooting scenarios.
 * Practicing foundational routing, switching, and device configurations using simulated corporate topologies via Cisco CLI.
 
-#### 🧠 SILENTTALK: Sinhala Sign Language Interface for LLMs
+#### SILENTTALK: Sinhala Sign Language Interface for LLMs
 *Published in IEEE Xplore | Python, MediaPipe, OpenCV, BiLSTM, Conv1D, RuleBased NLP, GEMINI API*
 * Final-year group project developing an end-to-end system for real-time Sinhala Sign Language recognition and interaction with LLMs.
 * Engineered deep-learning preprocessing pipelines and NLP translation components to transform sign gesture tracking vectors into text.
 
-#### ⚡ Quick Fit Memory Allocation Simulator
+#### [Compiler Construction Design](https://github.com/SupunOshadha)**
+* *C, Flex, GCC*
+* Implemented low-level code generation architectures producing Three Address Code (TAC) from custom source programs. 
+
+#### Quick Fit Memory Allocation Simulator
 *Java, Data Structures, OS Kernel Logic*
 * Developed an independent desktop simulator analyzing dynamic system memory allocation rules, minimizing fragmentation overhead, and tracking latency optimization profiles.
 
@@ -50,3 +54,14 @@ A Software Engineering Graduate from The Open University of Sri Lanka, combining
 * 💼 **LinkedIn:** [linkedin.com/in/supunoshadha](https://linkedin.com/in/supunoshadha)
 * 📊 **HackerRank:** Verified Java, JavaScript & SQL Profiles
 * 🌐 **Portfolio Website:** [portfoliosupun.vercel.app](https://portfoliosupun.vercel.app/)
+
+
+
+
+
+
+
+
+
+
+
